@@ -31,7 +31,7 @@ namespace OperatorsExercise
             var j = 4;
             var k = ++i * j++;
             Console.WriteLine(k);
-            
+
 
 
 
